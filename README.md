@@ -50,9 +50,9 @@ SOFTWARE.
 
 Deployed Heroku Link:
 
-Heroku :https://ancient-anchorage-59981.herokuapp.com/
+Heroku :https://stark-citadel-95574.herokuapp.com/
 
-Git Hub: https://github.com/suganyasomu/BurgerApp
+Git Hub: https://github.com/suganyasomu/OfflineBudgetTracker
 
 
 
